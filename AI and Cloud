@@ -1,0 +1,18 @@
+Big companies are fighting for AI cloud market.
+	
+AI is a technology with high resource consumption, strong computing and scale effect. It is natural to combine it with cloud computing.
+
+The purpose of transplanting AI development capabilities to the cloud is to provide an efficient and cost-effective AI development environment for enterprises or individual users. AI can be said to be a potential stock. Researchers and investors have invested a lot of manpower and capital, hoping to make the gear of AI run at high speed and see from quantitative change to qualitative change as soon as possible. 
+However, judging from the development of AI over the past few decades, it can be said that it is a technology with thick accumulation and high resource consumption. 
+In this case, low-cost and efficient development has become a difficult place for enterprises, and the cloud platform can fill this gap.
+
+What will the deep integration of AI and cloud computing bring?
+
+Mlaas, fully known as machine learning as a services, is a cloud platform type with machine learning as its service content, covering most infrastructure problems, such as data preprocessing, model training, model evaluation, and further prediction. 
+The prediction results can be connected to the internal IT infrastructure of the enterprise through the Restful API.
+
+There is no doubt that Amazon can lead the world in the development of AI cloud products. The mlaas developed by Amazon can be divided into two levels: Amazon ml for predictive analysis and sagemaker tool for data scientists. 
+Sagemaker is a more powerful machine learning tool, which can simplify data exploration and analysis without server management. It is more suitable for experienced employees to work efficiently.
+
+In terms of cloud deployment, Microsoft azure provides a more flexible platform for cloud AI developers. It can deploy services in azure cloud, virtual private cloud or local cloud according to the needs of enterprise customers. 
+The advantage of Microsoft azure machine learning platform is that the required training model can be encapsulated in a container and deployed to azure, local or IOT devices, and it is easy to expand and manage.
